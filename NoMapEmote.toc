@@ -1,0 +1,7 @@
+## Interface: 80300
+## Title: No Map Emote
+## Notes: Blocks the /read emote when opening map.
+## Author: Iyadriel
+## Version: 1.0.4
+
+core.lua
